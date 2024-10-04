@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    chart: sealed-secrets
+    chart: example
     repoURL: https://github.com/kubernetes/ingress-nginx
     # targetRevision: 1.16.1
     helm:
